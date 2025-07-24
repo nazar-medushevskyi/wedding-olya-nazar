@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"baseUrl": "./src",
+		"paths": {
+			"@svg/*": ["./assets/images/svg/*"],
+			"@png/*": ["./assets/images/png/*"],
+			"@jpg/*": ["./assets/images/jpg/*"],
+			"@gif/*": ["./assets/images/gif/*"]
+		}
+	}
+}

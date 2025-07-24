@@ -1,0 +1,1 @@
+export { WeddingMainContent } from "./WeddingMainContent";

@@ -1,0 +1,1 @@
+export { WeddingHeader } from "./WeddingHeader";
