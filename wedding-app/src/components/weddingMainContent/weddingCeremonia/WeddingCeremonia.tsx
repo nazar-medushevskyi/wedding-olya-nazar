@@ -38,7 +38,7 @@ export const WeddingCeremonia = () => {
 					sx={{ color: "white", backgroundColor: "#8d9685" }}
 					onClick={() =>
 						window.open(
-							"https://maps.app.goo.gl/kdnT6btnCjH7uqPK9?g_st=it",
+							"https://dcchurchua.com/en/home-english/",
 							"_blank"
 						)
 					}>
